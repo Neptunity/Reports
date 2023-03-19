@@ -9,7 +9,6 @@ description: Report an In-Game rule-breaker
 title: "[Player Report]: "
 labels: ["in-game"]
 body:
-
 type: markdown
 attributes:
 value: |
@@ -72,5 +71,3 @@ options:
 required: false
 
 ---
-
-
